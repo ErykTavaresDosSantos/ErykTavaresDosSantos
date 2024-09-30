@@ -1,16 +1,19 @@
-## Hi there 👋
+## seja bem vindo ao meu perfil 🔽
 
-<!--
-**ErykTavaresDosSantos/ErykTavaresDosSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é ErykTavares
 
-Here are some ideas to get you started:
+ - sou estudante da [Alura](http://www.alura.com.br)
+ - estou me desenvolvendo na área de programação
+ - eu estou estudando JavaScript
+ - eu gosto de compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### entre em contato comigo 🧑‍🦱
+
+eryktavares567@gmail.com 
+
+![](https://media1.tenor.com/m/L4oB4N6GeakAAAAC/bongocatsolana-bongosolana.gif)
+
+
+
+
+por favor não [clique aqui](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
